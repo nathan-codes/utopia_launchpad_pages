@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Ether Elegance",
+    "image": "/images/ellegance.jpg",
+    "status": "Upcoming",
+    "startDate": "Starts February 17, 2024",
+    "mintPrice": 0.034,
+    "supply": 16000,
+    "minted": "-"
+  },
+  {
+    "title": "Virtual Voyagers",
+    "image": "/images/virtual.jpg",
+    "status": "Live",
+    "startDate": "Ends February 12, 2024",
+    "mintPrice": 0.5,
+    "supply": 8000,
+    "minted": 33
+  },
+  {
+    "title": "Quantum Quirks",
+    "image": "/images/quantum.jpg",
+    "status": "Live",
+    "startDate": "Ends February 7, 2024",
+    "mintPrice": 0.625,
+    "supply": 9000,
+    "minted": 50
+  },
+  {
+    "title": "Digital Dawn",
+    "image": "/images/digital.jpg",
+    "status": "Upcoming",
+    "startDate": "Starts February 24, 2024",
+    "mintPrice": 0.55,
+    "supply": 1000,
+    "minted": "-"
+  },
+  {
+    "title": "Galactic Guardians",
+    "image": "/images/galactic.jpg",
+    "status": "Live",
+    "startDate": "Ends February 10, 2024",
+    "mintPrice": 0.50,
+    "supply": 4000,
+    "minted": 45
+  },
+    {
+      "title": "Nomads",
+      "image": "/images/nomads.jpg",
+      "status": "Live",
+      "startDate": "Ends February 8, 2024",
+      "mintPrice": 0.86,
+      "supply": 9000,
+      "minted": 60
+    }
+]
